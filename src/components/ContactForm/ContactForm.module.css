@@ -9,7 +9,7 @@
 .label {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 8px;
   margin-bottom: 10px;
 }
 
